@@ -4,6 +4,8 @@
 
 🧪 Eu me chamo Willian Renato, tenho 20 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Sou QA Júnior com experiência em testes manuais e automação, apaixonado por tecnologia e sempre em busca de aprimoramento de habilidades. Gosto de compartilhar meu conhecimento e ajudar outros a explorar o mundo da qualidade de software!
 
+Oi, sou o Willian, tenho 20 anos e sou do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Como QA Júnior, tenho experiência em testes manuais e automação, e sou apaixonado por tecnologia. Ao longo da minha jornada, adquiri certificações em testes de software, automação, metodologias ágeis e ciclo de desenvolvimento. No momento, estou me aprofundando em Cypress.
+
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-renato-rodrigues-pereira-911b10200)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/billy.wky)
