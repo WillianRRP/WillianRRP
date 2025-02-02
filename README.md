@@ -5,8 +5,6 @@
 🧪 Meu nome é Willian Renato, tenho 20 anos e sou do Rio Grande do Sul. Atualmente, curso Análise e Desenvolvimento de Sistemas na Uniasselvi. Como QA Júnior, tenho experiência em testes manuais e testes automatizados, e sou apaixonado por tecnologia. Ao longo da minha jornada, adquiri certificações em testes de software, testes automatizados, metodologias ágeis e ciclo de desenvolvimento. No momento, estou me aprofundando em Cypress. Sou uma pessoa que valoriza o trabalho em equipe, a comunicação eficaz e o pensamento crítico, estando sempre em busca de aprimorar minhas habilidades.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-renato-rodrigues-pereira-911b10200)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/billy.wky)
-
 
 ### 🤖 Linguagens e Tecnologias
 
