@@ -14,7 +14,9 @@
   <img align="center" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img align="center" alt="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
- <img align="center" alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/postman-original.svg" height="40" alt="postman logo"  />
+ <img align="center" alt="Postman"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
+
+          
 </div><br/>
 
 ### 📊 Estatísticas
