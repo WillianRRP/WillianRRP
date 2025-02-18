@@ -15,7 +15,7 @@
   <img align="center" alt="Csharp" src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
  <img align="center" alt="Html" src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
  <img align="center" alt="Css" src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
- <img align="center" alt="javascript" src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
+ <img align="center" alt="javascript" src="https://skillicons.dev/icons?i=javascript&theme=light" height="40" alt="javascript logo"  />
  
  
           
