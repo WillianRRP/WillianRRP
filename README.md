@@ -38,5 +38,8 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianRRP&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
+  <img src="https://raw.githubusercontent.com/WillianRRP/WillianRRP/output/snake.svg" alt="Snake animation" />
+
+
   </p>
 
