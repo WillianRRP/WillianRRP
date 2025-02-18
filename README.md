@@ -39,4 +39,6 @@
   />
 
   </p>
+  <img src="https://raw.githubusercontent.com/WillianRRP/WillianRRP/output/snake.svg" alt="Snake animation" />
+
 
