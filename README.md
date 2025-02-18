@@ -15,7 +15,7 @@
   <img align="center" alt="Csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="40" alt="csharp logo"  />
  <img align="center" alt="Html"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" alt="html logo"  />
  <img align="center" alt="Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40" alt="css logo"  />
- <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+ <img align="center" alt="javascript" src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
  
  
           
