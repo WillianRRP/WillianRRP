@@ -9,8 +9,8 @@
 ### 🤖 Linguagens e Tecnologias
 
 <div style="display: inline_block">
- <img align="center" alt="Cypress" src="https://skillicons.dev/icons?i=cypress" height="40" alt="cypress logo"  />
- <img align="center" alt="Java" src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="java logo"  />
+ <img align="center" alt="Cypress" src="https://skillicons.dev/icons?i=cypress&theme=light" height="40" alt="cypress logo"  />
+ <img align="center" alt="Java" src="https://skillicons.dev/icons?i=java&theme=light" height="40" alt="java logo"  />
   <img align="center" alt="Selenium" alt="Css" src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
   <img align="center" alt="Csharp" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" height="40" alt="csharp logo"  />
  <img align="center" alt="Html" src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
