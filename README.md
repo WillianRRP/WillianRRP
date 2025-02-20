@@ -9,6 +9,7 @@
 ### 🤖 Linguagens e Tecnologias
 
 <div style="display: inline_block">
+ <img align="center" alt="Vscode" src="https://skillicons.dev/icons?i=vscode&theme=light" height="40" alt="vscode logo"/>
  <img align="center" alt="Cypress" src="https://skillicons.dev/icons?i=cypress&theme=light" height="40" alt="cypress logo"/>
  <img align="center" alt="Java" src="https://skillicons.dev/icons?i=java&theme=light" height="40" alt="java logo"/>
   <img align="center" alt="Selenium" src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"/>
