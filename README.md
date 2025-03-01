@@ -6,6 +6,14 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-renato-rodrigues-pereira-911b10200)
 
+### 📚 Estudando no Momento
+<div style="display: inline_block">
+<img align="center" alt="Cypress" src="https://skillicons.dev/icons?i=cypress&theme=light" height="40" alt="cypress logo"/>
+<img align="center" alt="javascript" src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
+<img align="center" alt="react" src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"/>
+
+
+
 ### 🤖 Linguagens e Tecnologias
 
 <div style="display: inline_block">
