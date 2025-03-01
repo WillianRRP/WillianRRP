@@ -12,6 +12,7 @@
 <img align="center" alt="javascript" src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
 <img align="center" alt="react" src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"/>
 <img align="center" alt="python" src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"/>
+<img align="center" alt="mysql" src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/>
 
 
 
