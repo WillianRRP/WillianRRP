@@ -9,10 +9,10 @@
 ### 📚 Estudando no Momento
 <div style="display: inline_block">
 <img align="center" alt="Cypress" src="https://skillicons.dev/icons?i=cypress&theme=light" height="40" alt="cypress logo"/>
-<img align="center" alt="javascript" src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
-<img align="center" alt="react" src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"/>
-<img align="center" alt="python" src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"/>
-<img align="center" alt="mysql" src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/>
+<img align="center" alt="javascript" src="https://skillicons.dev/icons?i=js&theme=light" height="40" alt="javascript logo"/>
+<img align="center" alt="react" src="https://skillicons.dev/icons?i=react&theme=light" height="40" alt="react logo"/>
+<img align="center" alt="python" src="https://skillicons.dev/icons?i=python&theme=light" height="40" alt="python logo"/>
+<img align="center" alt="mysql" src="https://skillicons.dev/icons?i=mysql&theme=light" height="40" alt="mysql logo"/>
 
 
 
