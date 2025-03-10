@@ -8,20 +8,20 @@
 
 ### 📚 Estudando no Momento
 <div style="display: inline_block">
- <img align="center" alt="react" src="https://skillicons.dev/icons?i=react&theme=light" height="40" alt="react logo"/>
+ <img align="center" alt="Nodejs" src="https://skillicons.dev/icons?i=nodejs&theme=light" height="40" alt="react logo"/>
 <img align="center" alt="Cypress" src="https://skillicons.dev/icons?i=cypress&theme=light" height="40" alt="cypress logo"/>
-<img align="center" alt="javascript" src="https://skillicons.dev/icons?i=js&theme=light" height="40" alt="javascript logo"/>
 <img align="center" alt="python" src="https://skillicons.dev/icons?i=python&theme=light" height="40" alt="python logo"/>
 <img align="center" alt="mysql" src="https://skillicons.dev/icons?i=mysql&theme=light" height="40" alt="mysql logo"/>
 
 
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Linguagens e Ferramentas
 
 <div style="display: inline_block">
  <img align="center" alt="Vscode" src="https://skillicons.dev/icons?i=vscode&theme=light" height="40" alt="vscode logo"/>
  <img align="center" alt="Postman" src="https://skillicons.dev/icons?i=postman&theme=light" height="40" alt="postman logo"/>
  <img align="center" alt="react" src="https://skillicons.dev/icons?i=react&theme=light" height="40" alt="react logo"/>
+ <img align="center" alt="Nodejs" src="https://skillicons.dev/icons?i=nodejs&theme=light" height="40" alt="nodejs logo"/>
  <img align="center" alt="Cypress" src="https://skillicons.dev/icons?i=cypress&theme=light" height="40" alt="cypress logo"/>
  <img align="center" alt="Java" src="https://skillicons.dev/icons?i=java&theme=light" height="40" alt="java logo"/>
   <img align="center" alt="Selenium" src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"/>
