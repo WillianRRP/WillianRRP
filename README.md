@@ -23,8 +23,6 @@
  <img align="center" alt="react" src="https://skillicons.dev/icons?i=react&theme=light" height="40" alt="react logo"/>
  <img align="center" alt="Nodejs" src="https://skillicons.dev/icons?i=nodejs&theme=light" height="40" alt="nodejs logo"/>
  <img align="center" alt="Cypress" src="https://skillicons.dev/icons?i=cypress&theme=light" height="40" alt="cypress logo"/>
- <img align="center" alt="Java" src="https://skillicons.dev/icons?i=java&theme=light" height="40" alt="java logo"/>
-  <img align="center" alt="Selenium" src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"/>
  <img align="center" alt="Html" src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"/>
  <img align="center" alt="Css" src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"/>
  <img align="center" alt="javascript" src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
