@@ -31,7 +31,8 @@ Atualmente, estou desenvolvendo minhas habilidades em automação de testes, ló
           
 </div><br/>
 
-### 📊 Estatísticas
+</br>
+
 
 <p>
  
