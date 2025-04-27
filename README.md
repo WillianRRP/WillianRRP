@@ -2,7 +2,9 @@
 
 **`Analista de qualidade jr`**
 
-💻️ Meu nome é Willian Renato, tenho 20 anos e sou do Rio Grande do Sul. Atualmente, curso Análise e Desenvolvimento de Sistemas na Uniasselvi. Como QA Júnior, tenho experiência em testes manuais e testes automatizados, e sou apaixonado por tecnologia. Ao longo da minha jornada, adquiri certificações em testes de software, testes automatizados, metodologias ágeis e ciclo de desenvolvimento. Sou uma pessoa que valoriza o trabalho em equipe, a comunicação eficaz e o pensamento crítico.
+💻️ Meu nome é Willian Renato, tenho 20 anos e sou do Rio Grande do Sul.
+Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por Qualidade de Software. Estou sempre buscando maneiras de aprimorar minhas habilidades e contribuir de forma significativa para o mundo da tecnologia.
+Atualmente, estou desenvolvendo minhas habilidades em automação de testes, lógica de programação e estou explorando novas ferramentas para melhorar minha produtividade e qualidade no trabalho.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-renato-rodrigues-pereira-911b10200)
 
@@ -32,8 +34,6 @@
 ### 📊 Estatísticas
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=WillianRRP&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false&order=1%22%20height=%22134%22%20alt=%22stats%20graph%22"/>
-  
  
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WillianRRP&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=false&order=2" height="134" alt="languages graph" />
 </div>
