@@ -10,7 +10,6 @@ Atualmente, estou desenvolvendo minhas habilidades em automação de testes, ló
 
 ### 📚 Estudando no Momento
 <div style="display: inline_block">
- <img align="center" alt="Nodejs" src="https://skillicons.dev/icons?i=nodejs&theme=light" height="40" alt="nodejs logo"/>
 <img align="center" alt="Cypress" src="https://skillicons.dev/icons?i=cypress&theme=light" height="40" alt="cypress logo"/>
 <img align="center" alt="postgresql" src="https://skillicons.dev/icons?i=postgresql&theme=light" height="40" alt="postgresql logo"/>
 <img align="center" alt="python" src="https://skillicons.dev/icons?i=python&theme=light" height="40" alt="python logo"/>
