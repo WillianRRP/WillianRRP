@@ -18,9 +18,9 @@ Atualmente, estou desenvolvendo minhas habilidades em automação de testes, ló
 ### 🛠️ Linguagens e Ferramentas
 
 <div style="display: inline_block">
+ <img align="center" alt="Cypress" src="https://skillicons.dev/icons?i=cypress&theme=light" height="40" alt="cypress logo"/>
  <img align="center" alt="Vscode" src="https://skillicons.dev/icons?i=vscode&theme=light" height="40" alt="vscode logo"/>
  <img align="center" alt="Postman" src="https://skillicons.dev/icons?i=postman&theme=light" height="40" alt="postman logo"/>
-  <img align="center" alt="Cypress" src="https://skillicons.dev/icons?i=cypress&theme=light" height="40" alt="cypress logo"/>
  <img align="center" alt="react" src="https://skillicons.dev/icons?i=react&theme=light" height="40" alt="react logo"/>
  <img align="center" alt="Html" src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"/>
  <img align="center" alt="Css" src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"/>
