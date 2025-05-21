@@ -1,44 +1,34 @@
-# 👨🏻‍💻Willian Renato
+<!-- CABEÇALHO ANIMADO -->
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=1000&color=4E42F7FF&background=FF000000&center=true&vCenter=true&width=500&lines=quality-analyst;Hello%2C+I'm+Willian+Rodrigues" alt="Typing SVG" />
+</div>
 
-**`Analista de qualidade jr`**
+# 🧪 Sobre Mim
 
-💻️ Meu nome é Willian Renato, tenho 20 anos e sou do Rio Grande do Sul.
-Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por Qualidade de Software. Estou sempre buscando maneiras de aprimorar minhas habilidades e contribuir de forma significativa para o mundo da tecnologia.
-Atualmente, estou desenvolvendo minhas habilidades em automação de testes, lógica de programação e estou explorando novas ferramentas para melhorar minha produtividade e qualidade no trabalho.
+<div style="background-color: #1a1a1a; border-radius: 10px; padding: 25px; color: #FFFFFF; text-align: center; margin: 0 auto; max-width: 800px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+ <ul style="list-style-type: none; font-size: 18px; line-height: 1.8; padding: 0; margin: 0;">
+  <li>🌟 Tenho 20 anos e moro em Alvorada – RS</li>
+  <li>📖 Estou no 5º semestre de Análise e Desenvolvimento de Sistemas</li>
+  <li>💻 Atuei como QA Júnior, com foco em testes manuais de APIs, utilizando ferramentas como Postman, Jira e Jenkins</li>
+  <li>🧪 Ganhei experiência prática em ambientes ágeis, participando de cerimônias como dailies, plannings e reviews</li>
+  <li>🎯 Atualmente, estou me aprofundando em testes automatizados por meio de cursos voltados ao Cypress</li>
+  <li>📚 Também sigo estudando banco de dados e aprimorando meus conhecimentos em testes manuais</li>
+</ul>
+</div>
+
+
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-renato-rodrigues-pereira-911b10200)
 
-### 📚 Estudando no Momento
-<div style="display: inline_block">
-<img align="center" alt="Cypress" src="https://skillicons.dev/icons?i=cypress&theme=light" height="40" alt="cypress logo"/>
- <img align="center" alt="python" src="https://skillicons.dev/icons?i=python&theme=light" height="40" alt="python logo"/>
-<img align="center" alt="Cypress" src="https://skillicons.dev/icons?i=java&theme=light" height="40" alt="java logo"/>
-<img align="center" alt="postgresql" src="https://skillicons.dev/icons?i=postgresql&theme=light" height="40" alt="postgresql logo"/>
+
+# ⚙️ Estudando no momento
+[![My Skills](https://skillicons.dev/icons?i=cypress,python,java,react,postgresql&theme=light)](https://skillicons.dev)
 
 
-
-### 🛠️ Linguagens e Ferramentas
-
-<div style="display: inline_block">
- <img align="center" alt="Cypress" src="https://skillicons.dev/icons?i=cypress&theme=light" height="40" alt="cypress logo"/>
- <img align="center" alt="Vscode" src="https://skillicons.dev/icons?i=vscode&theme=light" height="40" alt="vscode logo"/>
- <img align="center" alt="Postman" src="https://skillicons.dev/icons?i=postman&theme=light" height="40" alt="postman logo"/>
- <img align="center" alt="react" src="https://skillicons.dev/icons?i=react&theme=light" height="40" alt="react logo"/>
- <img align="center" alt="Html" src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"/>
- <img align="center" alt="Css" src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"/>
- <img align="center" alt="javascript" src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
- 
- 
-          
-</div><br/>
-
-</br>
+# 🧠 Habilidades Tech
+[![My Skills](https://skillicons.dev/icons?i=cypress,vscode,postman,react,html,css,js&theme=light)](https://skillicons.dev)
 
 
-<p>
- 
+# 📊 Estatísticas do GitHub
+
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WillianRRP&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=false&order=2" height="134" alt="languages graph" />
-</div>
-  </p>
-
-
