@@ -10,15 +10,23 @@
   <li>🌟 Tenho 20 anos e moro em Alvorada – RS</li>
   <li>📖 Estou no 5º semestre de Análise e Desenvolvimento de Sistemas</li>
   <li>💻 Atuei como QA Júnior, com foco em testes manuais de APIs, utilizando ferramentas como Postman, Jira e Jenkins</li>
-  <li>🧪 Ganhei experiência prática em ambientes ágeis, participando de cerimônias como dailies, plannings e reviews</li>
+  <li>🛡️ Ganhei experiência prática em ambientes ágeis, participando de cerimônias como dailies, plannings e reviews</li>
   <li>🎯 Atualmente, estou me aprofundando em testes automatizados por meio de cursos voltados ao Cypress</li>
   <li>📚 Também sigo estudando banco de dados e aprimorando meus conhecimentos em testes manuais</li>
 </ul>
 </div>
 
-
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-renato-rodrigues-pereira-911b10200)
+  <!-- Github -->
+  <p>
+    <a href="https://www.github.com/](https://github.com/WillianRRP/WillianRRP">
+      <img src="https://img.icons8.com/EFEFEF/ios_filled/2x/github.png" width="50" height="50"></a>
+    <!-- Linkedin -->
+    <a href="https://www.linkedin.com/in/willian-renato-rodrigues-pereira-911b10200">
+      <img src="https://img.icons8.com/ffffff/color/2x/linkedin.png" width="50" height="50"></a>
+    <!-- Discord -->
+    <a href="https://discord.com/users/nando_do_golfao_v8_turbo">
+      <img src="https://img.icons8.com/ffffff/color/2x/discord-logo.png" width="50" height="50"></a>
+  </p>
 
 
 # ⚙️ Estudando no momento
