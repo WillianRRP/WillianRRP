@@ -18,7 +18,7 @@
 
   <!-- Github -->
   <p>
-    <a href="https://www.github.com/](https://github.com/WillianRRP/WillianRRP">
+    <a href="https://github.com/WillianRRP">
       <img src="https://img.icons8.com/EFEFEF/ios_filled/2x/github.png" width="50" height="50"></a>
     <!-- Linkedin -->
     <a href="https://www.linkedin.com/in/willian-renato-rodrigues-pereira-911b10200">
