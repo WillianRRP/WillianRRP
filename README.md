@@ -30,7 +30,7 @@
 
 
 # ⚙️ Estudando no momento
-[![My Skills](https://skillicons.dev/icons?i=cypress,java,react,postgresql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cypress,java,postgresql&theme=light)](https://skillicons.dev)
 
 
 # 🧠 Habilidades Tech
