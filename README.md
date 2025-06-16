@@ -24,7 +24,7 @@
     <a href="https://www.linkedin.com/in/willian-renato-rodrigues-pereira-911b10200">
       <img src="https://img.icons8.com/ffffff/color/2x/linkedin.png" width="50" height="50"></a>
     <!-- Discord -->
-    <a href="https://discord.com/users/nando_do_golfao_v8_turbo">
+    <a href="https://discord.com/users/billy_do_golfao_gti">
       <img src="https://img.icons8.com/ffffff/color/2x/discord-logo.png" width="50" height="50"></a>
   </p>
 
