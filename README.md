@@ -8,7 +8,7 @@
 <div style="background-color: #1a1a1a; border-radius: 10px; padding: 25px; color: #FFFFFF; text-align: center; margin: 0 auto; max-width: 800px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
  <ul style="list-style-type: none; font-size: 18px; line-height: 1.8; padding: 0; margin: 0;">
   <li>🌟 Tenho 20 anos e moro em Alvorada – RS</li>
-  <li>📖 Estou no 5º semestre de Análise e Desenvolvimento de Sistemas</li>
+  <li>📖 Estou no 6º semestre de Análise e Desenvolvimento de Sistemas</li>
   <li>💻 Atuei como QA Júnior, com foco em testes manuais de APIs, utilizando ferramentas como Postman, Jira e Jenkins</li>
   <li>🛡️ Ganhei experiência prática em ambientes ágeis, participando de cerimônias como dailies, plannings e reviews</li>
   <li>🎯 Atualmente, estou me aprofundando em testes automatizados por meio de cursos voltados ao Cypress</li>
