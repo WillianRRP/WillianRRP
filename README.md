@@ -28,7 +28,7 @@
 
 
 # ⚙️ Estudando no momento
-[![My Skills](https://skillicons.dev/icons?i=cypress,java,postgresql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cypress,php,terraform,py,kubernetes&theme=light)](https://skillicons.dev)
 
 
 # 🧠 Habilidades Tech
