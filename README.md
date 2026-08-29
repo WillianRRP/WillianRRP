@@ -60,14 +60,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cypress,vscode,postman,react,html,css,js,python,java,php&theme=light)](https://skillicons.dev)
 
-
-# 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WillianRRP&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=false&order=2" height="134" alt="languages graph" />
-</div>
-
-
 # 🏆 Destaques Profissionais
 
 - **Evolução de Estagiário para QA Júnior**, assumindo maiores responsabilidades técnicas
