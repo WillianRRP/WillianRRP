@@ -12,7 +12,7 @@
   <li>💻 Atuei como QA Júnior na Zallpy Digital, com foco em testes manuais e de APIs, utilizando Postman, Jira e Jenkins</li>
   <li>🛡️ Experiência em testes funcionais, de integração e exploratórios em sistemas financeiros de alta criticidade (ADP Expert)</li>
   <li>🎯 Atualmente, atuo como Jovem Aprendiz de TI (Suporte e Infraestrutura) na Carnetti, e sigo me aprofundando em testes automatizados com Cypress</li>
-  <li>📚 Também possuo conhecimentos em Python, Java, TypeScript, HTML, CSS, PHP e banco de dados</li>
+  <li>📚 Também possuo conhecimentos em Java, TypeScript, HTML, CSS e JavaScript</li>
 </ul>
 </div>
 
