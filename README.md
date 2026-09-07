@@ -28,7 +28,16 @@
 
 
 # ⚙️ Estudando no momento
-[![My Skills](https://skillicons.dev/icons?i=cypress,php,k6,py,playwright&theme=light)](https://skillicons.dev)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cypress" width="48" height="48" alt="Cypress">
+  <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP">
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright">
+
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/k6/default.svg" width="48" height="48" alt="k6">
+</p>
 
 
 # 🧠 Habilidades Tech
