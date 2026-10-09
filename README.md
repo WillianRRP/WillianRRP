@@ -78,7 +78,7 @@ Atualmente, estou aprofundando meus conhecimentos em automação de testes. Gost
 
 
 # Outras ferramentas
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,html,css,js,python,php&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,php&theme=light)](https://skillicons.dev)
 
 # 🏆 Destaques Profissionais
 
