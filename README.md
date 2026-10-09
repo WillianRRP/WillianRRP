@@ -5,16 +5,14 @@
 
 # 🧪 Sobre Mim
 
-<div style="background-color: #1a1a1a; border-radius: 10px; padding: 25px; color: #FFFFFF; text-align: center; margin: 0 auto; max-width: 800px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
- <ul style="list-style-type: none; font-size: 18px; line-height: 1.8; padding: 0; margin: 0;">
-  <li>🌟 Tenho 21 anos e moro em Alvorada – RS</li>
-  <li>📖 Formado em Análise e Desenvolvimento de Sistemas pela Uniasselvi (02/2026)</li>
-  <li>💻 Atuei como QA Júnior na Zallpy Digital, com foco em testes manuais e de APIs, utilizando Postman, Jira e Jenkins</li>
-  <li>🛡️ Experiência em testes funcionais, de integração e exploratórios em sistemas financeiros de alta criticidade (ADP Expert)</li>
-  <li>🎯 Atualmente, atuo como Jovem Aprendiz de TI (Suporte e Infraestrutura) na Carnetti, e sigo me aprofundando em testes automatizados com Cypress</li>
-  <li>📚 Também possuo conhecimentos em Java, TypeScript, HTML, CSS e JavaScript</li>
-</ul>
-</div>
+Sou o Willian, formado em **Análise e Desenvolvimento de Sistemas pela Uniasselvi** e profissional de tecnologia com experiência em **Quality Assurance** e **Suporte/Infraestrutura de TI**.
+
+Na Zallpy Digital, atuei como QA Júnior em um projeto relacionado ao ADP Expert, realizando testes manuais e validações de APIs em fluxos de RH e folha de pagamento. Também tive experiência com suporte técnico na Carnetti, trabalhando com chamados, diagnóstico de problemas, equipamentos e monitoramento de PDVs.
+
+Atualmente, estou aprofundando meus conhecimentos em automação de testes. Gosto de investigar comportamentos inesperados, entender a causa dos problemas e transformar cenários de teste em verificações confiáveis.
+
+> *“Nem a luz escapa do que dorme sob o cometa.”* ☄️
+
 
 <!-- Redes Sociais -->
 <p align="center">
@@ -31,43 +29,56 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cypress" width="48" height="48" alt="Cypress">
-  <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="48" height="48" alt="Pytest"/>
   <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright">
-
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/k6/default.svg" width="48" height="48" alt="k6">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="48" alt="postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="48" alt="Mysql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="48" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" height="48" alt="Gitlab"/>
+          
+          
+          
+  
 </p>
 
 
-# 🧠 Habilidades Tech
+## Experiência
 
-### Quality Assurance (QA)
-- Testes manuais funcionais, de integração e exploratórios
-- Testes de API com **Postman**
-- Automação de testes com **Python**, **Selenium** e **Cypress** (noções)
-- Integração contínua com **Jenkins**
-- Versionamento com **Git** / **GitHub**
-- Gestão de tarefas e bugs com **Jira**
-- Metodologia **Scrum** (Dailys, Planning, Reviews e Retrospectivas)
-- Noções de BDD, TDD e Robot Framework
+<details>
+<summary><strong>QA Júnior — Zallpy Digital</strong></summary>
 
-### Infraestrutura e Suporte de TI
-- Monitoramento de rede e verificação de disponibilidade de PDVs
-- Consulta e gerenciamento de IPs e dispositivos de rede (Sophos)
-- Execução de rotinas de backup em fita
-- Montagem, manutenção e configuração de computadores e periféricos
-- Cabeamento estruturado e confecção de cabos de rede
-- Gerenciamento de usuários no Windows Server e RMS
-- Carga de balanças utilizando sistema MGV
+- Execução de testes manuais funcionais, exploratórios e de integração.
+- Testes e validação de APIs com Postman.
+- Validação de fluxos de RH e folha de pagamento no contexto do ADP Expert, incluindo admissão, alterações cadastrais e rescisão.
+- Registro e acompanhamento de defeitos com Jira.
+- Vivência com Jenkins, Git/GitHub e metodologia Scrum.
 
-### Desenvolvimento e Automação
-- Desenvolvimento de painel interno em Python para monitoramento de IPs
-- Desenvolvimento de página de cadastro de produtos com HTML, CSS e PHP
-- Web scraping em Python para coleta de dados
-- Apoio no desenvolvimento de sistema de precificação (price) em PHP
+</details>
 
-[![My Skills](https://skillicons.dev/icons?i=cypress,vscode,postman,react,html,css,js,python,java,php&theme=light)](https://skillicons.dev)
+<details>
+<summary><strong>Jovem Aprendiz de TI — Suporte e Infraestrutura | Carnetti</strong></summary>
+
+- Atendimento a usuários e acompanhamento de chamados pelo GLPI.
+- Diagnóstico de problemas em computadores, periféricos e conectividade.
+- Monitoramento de disponibilidade de PDVs e consulta/gestão de IPs.
+- Contato com Sophos, Windows Server, RMS e MGV.
+- Apoio em rotinas de backup, manutenção de equipamentos e cabeamento de rede.
+- Desenvolvimento de painel interno em Python para apoiar o monitoramento de IPs.
+
+</details>
+
+## Projetos e prática
+
+- **Automação de testes:** exercícios e projetos com Cypress, Python e Pytest.
+- **Testes E2E:** prática com Cypress e exploração do Playwright.
+- **Validação de dados:** consultas SQL para investigar e conferir informações.
+- **Automação de infraestrutura:** painel interno em Python para monitoramento de IPs.
+
+
+# Outras ferramentas
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,html,css,js,python,php&theme=light)](https://skillicons.dev)
 
 # 🏆 Destaques Profissionais
 
